@@ -1,0 +1,2 @@
+# Dugcra
+Semestro projektas
